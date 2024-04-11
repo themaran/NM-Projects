@@ -24,7 +24,7 @@ Kelogger is a cutting-edge cybersecurity project developed to enhance digital se
 
 ## Connect with me
 
-[![Email](https://img.shields.io/badge/Email-Click%20to%20Contact-blue?style=flat-square&logo=gmail)](mailto:elamaran.infotech@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Us-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elamaran-elango/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-blue?style=flat-square&logo=instagram)](https://www.instagram.com/_elamaran_elango?igsh=bTZ3eTNqZ3Z5dmo1)
+[![Email](https://cdn-icons-png.flaticon.com/128/732/732200.png)](mailto:elamaran.infotech@gmail.com)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)](https://www.linkedin.com/in/elamaran-elango/)
+[![Instagram](https://cdn-icons-png.flaticon.com/128/174/174855.png)](https://www.instagram.com/_elamaran_elango?igsh=bTZ3eTNqZ3Z5dmo1)
 
